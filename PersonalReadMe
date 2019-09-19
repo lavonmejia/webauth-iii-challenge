@@ -1,0 +1,27 @@
+Get the Server Up
+Create models (api)  for this assignment that is POST, POST, GET (user, register, login)
+Test the api
+
+Create seed data
+User 
+    username
+    password
+    department 
+
+Put in JSON web tokens 
+Test the tokens
+
+
+
+npm init -y
+npm -D nodemon -g 
+npm i express
+
+--can run server--
+
+npm i bcryptjs
+
+--can hash password now--
+
+npm knex spqlite3
+knex init
